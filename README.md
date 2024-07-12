@@ -19,7 +19,7 @@ After trying decision tree and Logistic regression models. A tuned logistic regr
    - Maybe try a regression models, but use the classifier methods since the numerical data is encoded,for example PRACTAGE, PTAGE does not give the age of the practitioner or patient respectively rather an age group they belong to. On top of that over half of the data is categorical making hard of tradional regression to work properly.
 
 ## The main points
-If the read me is not enough, you can look the slides here(https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/Making%20Six-figure%24%20%20From%20Your%20Malpractice%20Suit.pdf)
+If the read me is not enough, you can look the slides here(https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/Making%20Six-figure%24%20%20From%20Your%20Malpractice%20Suit)
 
 ## How to run if you want all the details
 If you want the raw data before the cleaning you can find it [here](https://drive.google.com/drive/folders/160Bx6ybX8fGxCib0x8aF2_SmRWrggR8H?usp=sharing)

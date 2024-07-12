@@ -21,7 +21,10 @@ After trying decision tree and Logistic regression models. A tuned logistic regr
 ## The main points
 If the read me is not enough, you can look the slides [here](https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/Making%20Six-figure%24%20%20From%20Your%20Malpractice%20Suit.pdf)
 
-## How to run if you want all the details
+## The details
+Checkout my [notebook](https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/EDA%20and%20Models-Main.ipynb) here, I am not showing the output for the uber slow cells. You are free to download the notebook and run them yourself
+
+## How to run if you want all the details personally
 If you want the raw data before the cleaning you can find it [here](https://drive.google.com/drive/folders/160Bx6ybX8fGxCib0x8aF2_SmRWrggR8H?usp=sharing)
 Then you can run this [notebook](https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/Data%20Cleaning/Data%20Cleaning.ipynb) using that csv to get the clean data
-Lastly, run this [notebook](https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/EDA%20and%20Models-Main.ipynb) but I recomend skipping the uber slow cells
+Lastly, run this [notebook](https://github.com/S-boker/Classifying-six-figures-in-malpractice-payments-/blob/main/EDA%20and%20Models-Main.ipynb) but I recomend skipping the uber slow cells.
